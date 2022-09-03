@@ -1,4 +1,4 @@
-[![MasterHead](https://ca.rbcwealthmanagement.com/documents/379556/379570/humss-tech-support-banner.jpg/bdf41806-fcfe-4eb4-bab6-f62a6154e30b?t=1547141087255)]
+
 <h1 align="center">Hi 👋, I'm Dylan Babcock</h1>
 <h3 align="center">Highly motivated IT student | .NET Backend development</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
