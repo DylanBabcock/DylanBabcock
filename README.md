@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Dylan Babcock</h1>
-<h3 align="center">Highly motivated IT student | .NET Backend development</h3>
+<h3 align="center">Motivated Web Developer | Full-stack</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dylanbabcock&label=Profile%20views&color=0e75b6&style=flat" alt="dylanbabcock" /> </p>
 
-- 🌱 I’m currently learning **SQL, and OOP scripting with Python**
+- ✨😃 I’m recently just graduated with a Bachelors in IT!
 
-- 💬 Ask me about **.NET, JavaScript, C#**
+- 💬 Ask me about **Web Frameworks, JavaScript, data handling**
 
 - 📫 How to reach me **dylantbabcock@outlook.com**
 
