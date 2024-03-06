@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dylanbabcock&label=Profile%20views&color=0e75b6&style=flat" alt="dylanbabcock" /> </p>
 
-- ✨😃 I’m recently just graduated with a Bachelors in IT!
+- ✨😃 I have just recently graduated with a Bachelors in IT!
 
 - 💬 Ask me about **Web Frameworks, JavaScript, data handling**
 
