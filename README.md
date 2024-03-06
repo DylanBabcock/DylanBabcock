@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dylantbabcock@outlook.com**
 
-- <a href="https://dylanbabcock.github.io/portfolio-2024/" target="blank"><img align="center" src="https://png.pngtree.com/png-vector/20190223/ourmid/pngtree-star-vector-icon-png-image_696411.jpg" alt="dylan-babcock-profile" height="30" width="40" /></a> 
+- 🚀 Check out my portfolio website! https://dylanbabcock.github.io/portfolio-2024/
 
 - ⚡ Fun fact **My favorite genre of music is Folk/Alternative.**
 
